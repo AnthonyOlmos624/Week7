@@ -248,8 +248,8 @@ function solveProblem(a, b, operation){
 
 
 }
-console.log(solveProblem(10, 20, `add`));
+console.log(solveProblem(10, 5, `add`));
 console.log(solveProblem(10, 5, `subtract`));
-console.log(solveProblem(10, 15, `multiply`));
+console.log(solveProblem(10, 5, `multiply`));
 console.log(solveProblem(10, 5, `divide`));
 console.log(solveProblem(10, 0));
